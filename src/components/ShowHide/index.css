@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #dd1264);
+  height: 100vh;
+  text-align: center;
+}
+.heading {
+  color: #ffffff;
+  font-size: 20px;
+}
+.show-hide {
+  justify-content: space-around;
+  align-items: center;
+}
+.btn {
+  height: 30px;
+  border-radius: 5px;
+  margin: 10px;
+  background-color: #ffffff;
+  border-width: 0px;
+  cursor: pointer;
+}
+.box {
+  height: 150px;
+  width: 200px;
+  padding: 10px;
+  background-color: #fddddb;
+  border-radius: 5px;
+}
